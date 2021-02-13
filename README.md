@@ -3,11 +3,12 @@
 
 
 <h2 align="left">Oi, Eu sou o Queops👋🏽</h1>
-<p align=left>Profissional: <strong>Analista de Sistemas</strong>.</p>
-<p align="left">🌈 Estudos Atuais: <strong>JavaScript, Golang, C# and Java.</strong></p>
+<p align=left>Profissional: <strong>Desenvolvedor</strong>.</p>
+<p align="left">🌈 Estudos Atuais: <strong>JavaScript, Golang, Ruby, Angular C# and Java.</strong></p>
 <p align="left">💻 Tools: <strong>Visual Studio Code, Git and GitHub.</strong></p>
 <p align="left">💌 Redes Sociais: ⤵️</p>
 <br>
+
 
 
 <p align="left">
@@ -19,4 +20,3 @@
 </p>
 
 
-# queopsvitoria
