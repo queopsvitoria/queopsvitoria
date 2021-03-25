@@ -6,7 +6,7 @@
 <p align=left>Profissional: <strong>Desenvolvedor</strong>.</p>
 <p align="left">🌈 Estudos Atuais: <strong>JavaScript, Golang, Ruby, Angular.</strong></p>
 <p align="left">💻 Tools: <strong>Visual Studio Code, Git and GitHub.</strong></p>
-<p align="left">💌 Redes Sociais: ⤵️</p>
+<p align="left">💌 Redes Sociais: </p>
 <br>
 
 
