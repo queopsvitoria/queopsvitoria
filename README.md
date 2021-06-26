@@ -1,4 +1,4 @@
-!<img src="./images/mundoqueops1.png" width="400px" align="right" alt="icon-robo">
+<img src="./images/mundoqueops1.png" width="400px" align="right" alt="icon-robo">
 
 
 
